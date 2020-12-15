@@ -1,0 +1,112 @@
+Alice has cards: [S2, DJ, D8, D5, D2, CQ, C9, C6]
+Bob has cards: [S10, S7, S4, DK, D10, D7, D4, CA]
+Cathy has cards: [H5, H2, SQ, S9, S6, S3, DQ, D9]
+David has cards: [HK, H10, H7, H4, SA, SJ, S8, S5]
+Emily has cards: [C8, C5, C2, HQ, H9, H6, H3, SK]
+Fred has cards: [D3, CK, C10, C7, C4, HA, HJ, H8]
+Alice plays S2
+Bob plays S10
+Cathy plays H5
+David plays HK
+Emily plays C8
+Fred plays D3
+The winner of this round is David.
+
+Alice has cards: [DJ, D8, D5, D2, CQ, C9, C6]
+Bob has cards: [S7, S4, DK, D10, D7, D4, CA]
+Cathy has cards: [H2, SQ, S9, S6, S3, DQ, D9]
+David has cards: [H10, H7, H4, SA, SJ, S8, S5]
+Emily has cards: [C5, C2, HQ, H9, H6, H3, SK]
+Fred has cards: [CK, C10, C7, C4, HA, HJ, H8]
+Alice plays DJ
+Bob plays S7
+Cathy plays H2
+David plays H10
+Emily plays C5
+Fred plays CK
+The winner of this round is Fred.
+
+Alice has cards: [D8, D5, D2, CQ, C9, C6]
+Bob has cards: [S4, DK, D10, D7, D4, CA]
+Cathy has cards: [SQ, S9, S6, S3, DQ, D9]
+David has cards: [H7, H4, SA, SJ, S8, S5]
+Emily has cards: [C2, HQ, H9, H6, H3, SK]
+Fred has cards: [C10, C7, C4, HA, HJ, H8]
+Alice plays D8
+Bob plays S4
+Cathy plays SQ
+David plays H7
+Emily plays C2
+Fred plays C10
+The winner of this round is Cathy.
+
+Alice has cards: [D5, D2, CQ, C9, C6]
+Bob has cards: [DK, D10, D7, D4, CA]
+Cathy has cards: [S9, S6, S3, DQ, D9]
+David has cards: [H4, SA, SJ, S8, S5]
+Emily has cards: [HQ, H9, H6, H3, SK]
+Fred has cards: [C7, C4, HA, HJ, H8]
+Alice plays D5
+Bob plays DK
+Cathy plays S9
+David plays H4
+Emily plays HQ
+Fred plays C7
+The winner of this round is Bob.
+
+Alice has cards: [D2, CQ, C9, C6]
+Bob has cards: [D10, D7, D4, CA]
+Cathy has cards: [S6, S3, DQ, D9]
+David has cards: [SA, SJ, S8, S5]
+Emily has cards: [H9, H6, H3, SK]
+Fred has cards: [C4, HA, HJ, H8]
+Alice plays D2
+Bob plays D10
+Cathy plays S6
+David plays SA
+Emily plays H9
+Fred plays C4
+The winner of this round is David.
+
+Alice has cards: [CQ, C9, C6]
+Bob has cards: [D7, D4, CA]
+Cathy has cards: [S3, DQ, D9]
+David has cards: [SJ, S8, S5]
+Emily has cards: [H6, H3, SK]
+Fred has cards: [HA, HJ, H8]
+Alice plays CQ
+Bob plays D7
+Cathy plays S3
+David plays SJ
+Emily plays H6
+Fred plays HA
+The winner of this round is Fred.
+
+Alice has cards: [C9, C6]
+Bob has cards: [D4, CA]
+Cathy has cards: [DQ, D9]
+David has cards: [S8, S5]
+Emily has cards: [H3, SK]
+Fred has cards: [HJ, H8]
+Alice plays C9
+Bob plays D4
+Cathy plays DQ
+David plays S8
+Emily plays H3
+Fred plays HJ
+The winner of this round is Cathy.
+
+Alice has cards: [C6]
+Bob has cards: [CA]
+Cathy has cards: [D9]
+David has cards: [S5]
+Emily has cards: [SK]
+Fred has cards: [H8]
+Alice plays C6
+Bob plays CA
+Cathy plays D9
+David plays S5
+Emily plays SK
+Fred plays H8
+The winner of this round is Bob.
+
